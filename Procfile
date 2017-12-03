@@ -1,1 +1,1 @@
-web: subirimagenes.php
+web: subirimagenes
